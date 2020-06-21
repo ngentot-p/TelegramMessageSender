@@ -1,3 +1,13 @@
+## • Contact With Me On : 
+
+🆔 Our Youtube Channel : https://www.youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ
+
+🆔 Our Telegram Channel : https://t.me/M4nifest0
+
+🆔 Our Website : http://vortex-team.org
+
+🆔 Our Telegram Channel : https://t.me/Unidentified_TM
+
 ## • How To Install and Use
 
 `$ git clone https://github.com/erfan4lx/TelegramBulkMessageSender.git`
@@ -20,14 +30,6 @@
 * Send Bulk sms To Collected Data 
 
 `$ python3 smsbot.py members.csv`
-
-🆔 Our Youtube Channel : https://www.youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ
-
-🆔 Our Telegram Channel : https://t.me/M4nifest0
-
-🆔 Our Website : http://vortex-team.org
-
-🆔 Our Telegram Channel : https://t.me/Unidentified_TM
 
 <p align="center">
   Follow Me On
