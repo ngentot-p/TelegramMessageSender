@@ -1,12 +1,6 @@
-
-
----
-
-
 ## • How To Install and Use
 
 `$ git clone https://github.com/erfan4lx/TelegramBulkMessageSender.git`
-
 `$ cd TelegramBulkMessageSender`
 
 * Install requierments
@@ -25,8 +19,6 @@
 * Send Bulk sms To Collected Data 
 
 `$ python3 smsbot.py members.csv`
-
----
 
 <p align="center">
   Follow Me On
