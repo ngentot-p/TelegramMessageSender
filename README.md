@@ -39,7 +39,7 @@
 
 `$ python3 scraper.py`
 
-* ( erfan4lx.csv is default if you changed name use it )
+* ( members.csv is default if you changed name use it )
 * Send Bulk sms To Collected Data 
 
 `$ python3 smsbot.py members.csv`
