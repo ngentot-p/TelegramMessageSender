@@ -1,6 +1,7 @@
 ## • How To Install and Use
 
 `$ git clone https://github.com/erfan4lx/TelegramBulkMessageSender.git`
+
 `$ cd TelegramBulkMessageSender`
 
 * Install requierments
