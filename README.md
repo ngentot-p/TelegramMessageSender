@@ -8,6 +8,8 @@
 
 🆔 Our Telegram Channel : https://t.me/Unidentified_TM
 
+Show the tutorial of this tool on Youtube : https://youtu.be/CyYdYjeBeIg
+
 ## • How To Install and Use
 
 `$ git clone https://github.com/erfan4lx/TelegramBulkMessageSender.git`
