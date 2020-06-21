@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/erfan4lx/TelegramBulkMessageSender/master/.image/20191203_205322.jpg" width="470" height="150">
-</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/erfan4lx">
-    <img src="https://img.shields.io/github/followers/erfan4lx?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/erfan4lx/TelegramGroupMemberAdder">
-    <img src="https://img.shields.io/github/stars/erfan4lx/TelegramGroupMemberAdder?style=social">
-  </a>
-</p>
-<p align="center">
-  Telegram Bulk Message Sender
-</p>
-<p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
-</p>
 
 ---
 
