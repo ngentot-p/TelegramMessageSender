@@ -1,12 +1,8 @@
 ## • Contact With Me On : 
 
-🆔 Our Youtube Channel : https://www.youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ
+🆔 Our Website : https://M4nifest0.com
 
 🆔 Our Telegram Channel : https://t.me/M4nifest0
-
-🆔 Our Website : http://vortex-team.org
-
-🆔 Our Telegram Channel : https://t.me/Unidentified_TM
 
 Show the tutorial of this tool on Youtube : https://youtu.be/CyYdYjeBeIg
 
