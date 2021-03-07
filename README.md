@@ -6,7 +6,9 @@
 
 🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
-Show the tutorial of this tool on Youtube : https://youtu.be/CyYdYjeBeIg
+Show full video on YouTube : https://youtu.be/CyYdYjeBeIg
+
+Show demo video on Instagram : https://www.instagram.com/p/CMHUZLPgfOB
 
 ## • How To Install and Use
 
